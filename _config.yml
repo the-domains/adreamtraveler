@@ -1,0 +1,23 @@
+name: adreamtraveler
+favicon: null
+layout_spectrum: 0.7224025265313685
+typography_spectrum: 0.950373092899099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2980600141454488
+  lightness: 0.16603613086044788
+  saturation: 0.3380908281542361
+  rhythmicContrast: 0.4176135703455657
+purpose: []
